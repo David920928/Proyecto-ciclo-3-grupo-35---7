@@ -1,0 +1,48 @@
+h1{
+    color:#c0c;      
+    font-size: 16px;
+}
+p{
+    font-size: 20px;
+}
+#contenedor{
+    margin: 0;
+    width: 800px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+#head{
+    color: #ff9;
+    background-color: #000;
+    padding: 10px;
+}
+#cuerpo{
+    background-color: #ddd;
+    float: left;
+    height: 500px;
+    padding: 10px;
+    width: 580px;
+}
+#foot{
+    background-color: #999;
+    clear: both;
+    color: #900;
+    padding: 10px;
+    text-align: center;
+}
+#menu{
+    background-color: #bbb;
+    float: left;
+    height: 500px;
+    padding: 10px;
+    width: 180px;
+}
+ul{
+    list-style-type: none;
+}
+a:link, a:visited, a:hover{
+    color: green; 
+    font-size: 18px;
+}
